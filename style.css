@@ -1,0 +1,30 @@
+body{
+    padding: 1rem;
+    height: 100%;
+    background-image: url(6054809.jpg); /* 1pts */
+    background-size: cover;  /* 1pts */
+    background-repeat: no-repeat;   /* 1pts */
+    font-family: sans-serif; /* 0.5pts */
+}
+.card{
+    margin: 50px auto ; /* 1pts */
+    width: 400px;  /*400px = 2pts  -  400px< 1pts <600px*/
+    text-align: center;   /* 0.5pts */
+    background-color: #ffffff1e; /* 0.5pts free*/
+    border: solid 1px #ffffff2a; /* 0.5pts free*/
+    border-radius: 32px;  /* 0.5pts */
+    padding: 30px 0; /* 1pts */
+}
+button{
+    padding: 15px; /* 1pts */
+    border: solid 1px #ffffff2a;  /* 0.5pts free*/
+    background-color: #ffffff6e; /* 0.5pts free*/
+    border-radius: 24px; /* 0.5pts */
+    font-weight: bold; /* 0.5pts */
+    font-size: 20px; /* 0.5pts */
+
+}
+
+/* 2 :نقاط اضافية للابداع مثل توظيف خصائص ك 
+hover او cursor او transition 
+كل خاصية جديدة +1 */
